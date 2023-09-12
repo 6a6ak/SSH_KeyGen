@@ -8,7 +8,8 @@ The SSH_KeyGen script automates the process of generating an SSH key pair and st
 # Usage
 Run the script: ./SSH_KeyGen.sh
 Follow the on-screen prompts to generate your SSH key.
-SSHKey_Injection
+
+# SSHKey_Injection
 # Overview
 The SSHKey_Injection script not only generates an SSH key but also automatically copies it to a specified server. The script will prompt for the server's IP address, username, and the password to establish the SSH connection.
 
